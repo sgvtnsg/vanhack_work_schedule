@@ -113,7 +113,7 @@ To run this project you just have to [clone](https://help.github.com/articles/cl
 
 > VanHack is a network of the world’s top software engineering, design, and digital marketing talent - available on demand to relocate to help companies grow. With over 180,000 members from 73 countries, VanHack is the largest workforce that is ready to relocate in the world.
 
-visit their website [here](https://www.vanhack.com)
+visit their website [here](https://vanhack.com/?invite=guilhermeime)
 
 ### HackerRank
 
